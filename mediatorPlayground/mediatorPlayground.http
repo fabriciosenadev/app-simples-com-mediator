@@ -1,0 +1,6 @@
+@mediatorPlayground_HostAddress = http://localhost:5087
+
+GET {{mediatorPlayground_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
